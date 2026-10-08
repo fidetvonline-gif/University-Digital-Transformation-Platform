@@ -1,0 +1,6 @@
+{
+  "name": "University Digital Transformation Platform",
+  "description": "An enterprise university management ecosystem and digital portal with admissions, student records, staff workspace, public portal, and RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
